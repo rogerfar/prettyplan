@@ -1,7 +1,8 @@
 {
-    "compilerOptions": {
-        "outDir": "./dist/",
-        "module": "es6",
-        "target": "es6"
-    }
+  "compilerOptions": {
+    "outDir": "./dist/",
+    "module": "ESNext",
+    "target": "ESNext",
+    "esModuleInterop": true
+  }
 }
